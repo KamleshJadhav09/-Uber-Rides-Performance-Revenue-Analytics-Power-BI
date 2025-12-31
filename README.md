@@ -1,6 +1,6 @@
 📌 Project Overview
 
-Built an end-to-end Power BI analytics solution to analyze Uber ride performance, operational efficiency, and revenue trends.
+Designed and delivered an executive-ready Power BI dashboard to analyze Uber ride operations and performance, enabling data-driven business decision-making.
 
 Focused on transforming raw ride data into actionable business insights through interactive dashboards.
 
