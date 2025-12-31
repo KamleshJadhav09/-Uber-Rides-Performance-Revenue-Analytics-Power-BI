@@ -16,36 +16,36 @@ Focused on transforming raw ride data into actionable business insights through 
 
 🧹 Data Preparation
 
-Performed data cleaning, transformation, and validation using Power Query.
+• Performed data cleaning, transformation, and validation using Power Query.
 
-Handled missing values, standardized formats, and ensured data consistency across datasets.
+• Handled missing values, standardized formats, and ensured data consistency across datasets.
 
 🧱 Data Modeling
 
-Designed an optimized data model integrating ride, vehicle, and location tables.
+• Designed an optimized data model integrating ride, vehicle, and location tables.
 
-Implemented relationships and hierarchies to enable drill-downs and dynamic filtering.
+• Implemented relationships and hierarchies to enable drill-downs and dynamic filtering.
 
 📊 Dashboard & Visualization
 
-Created an interactive, executive-ready Power BI dashboard with slicers, filters, and drill-through functionality.
+• Created an interactive, executive-ready Power BI dashboard with slicers, filters, and drill-through functionality.
 
-Visualized KPIs and trends to support data-driven decision-making.
+• Visualized KPIs and trends to support data-driven decision-making.
 
 🛠️ Tools & Technologies
 
-Power BI
+• Power BI
 
-DAX
+• DAX
 
-Power Query
+• Power Query
 
-Data Modeling
+• Data Modeling
 
 📈 Key Business Insights
 
-High-revenue vehicle categories and peak demand periods identified.
+• High-revenue vehicle categories and peak demand periods identified.
 
-Key pickup and drop locations contributing the most to revenue highlighted.
+• Key pickup and drop locations contributing the most to revenue highlighted.
 
-Ratings analysis revealed service quality patterns impacting ride completion rates.
+• Ratings analysis revealed service quality patterns impacting ride completion rates.
