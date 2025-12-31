@@ -6,19 +6,13 @@ Focused on transforming raw ride data into actionable business insights through 
 
 🔧 Key Features & Analysis
 
-Analyzed bookings, cancellations, completed vs. lost rides, revenue, trip distance, and customer & driver ratings.
-
-Developed DAX measures and KPIs for:
-
-Completed vs. cancelled ride analysis
-
-Vehicle-wise revenue performance
-
-Monthly and quarterly trend analysis
-
-Identified top pickup and drop-off locations and high-demand routes.
-
-Evaluated revenue contribution by vehicle type to understand fleet performance.
+     1)Analyzed bookings, cancellations, completed vs. lost rides, revenue, trip distance, and customer & driver ratings.
+     2)Developed DAX measures and KPIs for:
+     3)Completed vs. cancelled ride analysis
+     4)Vehicle-wise revenue performance
+     5)Monthly and quarterly trend analysis
+     6)Identified top pickup and drop-off locations and high-demand routes.
+     7)Evaluated revenue contribution by vehicle type to understand fleet performance.
 
 🧹 Data Preparation
 
