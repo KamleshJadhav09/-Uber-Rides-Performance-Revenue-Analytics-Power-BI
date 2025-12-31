@@ -1,12 +1,57 @@
- 🚗-Uber-Rides-Performance-Revenue-Analytics-Power-BI
+📌 Project Overview
 
-Designed and delivered an executive-ready Power BI dashboard to analyze Uber ride operations and performance, enabling data-driven business decision-making.
+Built an end-to-end Power BI analytics solution to analyze Uber ride performance, operational efficiency, and revenue trends.
 
-🔹 Analyzed key operational and financial metrics including bookings, cancellations, completed vs. lost rides, revenue, trip distance, and customer & driver ratings.
-🔹 Built DAX measures and KPIs to evaluate vehicle-wise revenue performance and track monthly and quarterly trends.
-🔹 Performed data cleaning, transformation, and validation using Power Query, ensuring high data quality and reliable insights across multiple datasets.
-🔹 Applied data modelling best practices to integrate ride, vehicle, and location data, enabling dynamic filtering, drill-downs, and interactive analysis.
-🔹 Generated actionable business insights on top pickup and drop locations, revenue contribution by vehicle type, and overall service quality through ratings analysis.
+Focused on transforming raw ride data into actionable business insights through interactive dashboards.
 
-📊 Tools Used: Power BI, DAX, Power Query, Data Modeling
-📈 Outcome: Improved visibility into ride performance, demand patterns, and revenue drivers to support strategic decision-making.
+🔧 Key Features & Analysis
+
+Analyzed bookings, cancellations, completed vs. lost rides, revenue, trip distance, and customer & driver ratings.
+
+Developed DAX measures and KPIs for:
+
+Completed vs. cancelled ride analysis
+
+Vehicle-wise revenue performance
+
+Monthly and quarterly trend analysis
+
+Identified top pickup and drop-off locations and high-demand routes.
+
+Evaluated revenue contribution by vehicle type to understand fleet performance.
+
+🧹 Data Preparation
+
+Performed data cleaning, transformation, and validation using Power Query.
+
+Handled missing values, standardized formats, and ensured data consistency across datasets.
+
+🧱 Data Modeling
+
+Designed an optimized data model integrating ride, vehicle, and location tables.
+
+Implemented relationships and hierarchies to enable drill-downs and dynamic filtering.
+
+📊 Dashboard & Visualization
+
+Created an interactive, executive-ready Power BI dashboard with slicers, filters, and drill-through functionality.
+
+Visualized KPIs and trends to support data-driven decision-making.
+
+🛠️ Tools & Technologies
+
+Power BI
+
+DAX
+
+Power Query
+
+Data Modeling
+
+📈 Key Business Insights
+
+High-revenue vehicle categories and peak demand periods identified.
+
+Key pickup and drop locations contributing the most to revenue highlighted.
+
+Ratings analysis revealed service quality patterns impacting ride completion rates.
