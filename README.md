@@ -1,4 +1,5 @@
  🚗-Uber-Rides-Performance-Revenue-Analytics-Power-BI
+
 Designed and delivered an executive-ready Power BI dashboard to analyze Uber ride operations and performance, enabling data-driven business decision-making.
 
 🔹 Analyzed key operational and financial metrics including bookings, cancellations, completed vs. lost rides, revenue, trip distance, and customer & driver ratings.
